@@ -11,6 +11,6 @@ Webvium VPN is written in Java and XML. The development starts on Dec 25, 2021 l
 
 This app is still on its early months of its development more features, servers and improvements will come. Stay tuned for Updates.
 
-You can learn more by visiting Webvium VPN Download Page: [https://mrepol742.github.io/webviumvpn](https://mrepol742.github.io/webviumvpn)
+You can learn more by visiting Webvium VPN Download Page: [https://mrepol742.github.io/webviumvpn](https://mrepol742.github.io/webviumvpn?ref=mrepol742.hashnode.dev)
 
-Privacy Policy: [https://mrepol742.github.io/webviumvpn/privacypolicy](https://mrepol742.github.io/webviumvpn/privacypolicy)
+Privacy Policy: [https://mrepol742.github.io/webviumvpn/privacypolicy](https://mrepol742.github.io/webviumvpn/privacypolicy?ref=mrepol742.hashnode.dev)
