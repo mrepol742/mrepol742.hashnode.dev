@@ -14,5 +14,5 @@ A **Software Engineer** with a sound knowledge of knowledge in Web Development. 
 - Webvium: A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.
 - Webvium VPN: Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.
 
-[Website](https://mrepol742.github.io)
-[Github](https://github.com/mrepol742)
+[Website: https://mrepol742.github.io](https://mrepol742.github.io?ref=mrepol742.hashnode.dev)
+[Github: https://github.com/mrepol742](https://github.com/mrepol742)
