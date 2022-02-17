@@ -31,6 +31,6 @@ Features
 - AdBlocker
 - Webvium VPN
 
-You can learn more by visiting Webvium Download Page: [https://webvium.github.io](https://webvium.github.io)
+You can learn more by visiting Webvium Download Page: [https://mrepol742.github.io/webvium](https://mrepol742.github.io/webvium?ref=mrepol742.hashnode.dev)
 
-Privacy Policy: [https://webvium.github.io/privacypolicy](https://webvium.github.io/privacypolicy)
+Privacy Policy: [https://mrepol742.github.io/webvium/privacypolicy](https://mrepol742.github.io/webvium/privacypolicy?ref=mrepol742.hashnode.dev)
