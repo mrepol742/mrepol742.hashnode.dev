@@ -4,7 +4,7 @@
 <a href="https://mrepol742.github.io/webvium">
   <img alt="Webvium" src="https://mrepol742.github.io/images/webvium_transparent_icon.png" width="200px"/> 
   </a> 
-  <h3 align="center">Lightweight, Fast, Material and Full-Featured Android Web Browser.</h3>
+  <h1 align="center">Lightweight, Fast, Material and Full-Featured Android Web Browser.</h1>
 </p>
 <br>
 
