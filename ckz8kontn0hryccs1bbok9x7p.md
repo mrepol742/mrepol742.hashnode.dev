@@ -1,21 +1,23 @@
 ## Samiun Nafis - Designer - Freelancer - Developer
 
-**Samiun Nafis** is from Bangladesh. He developed many websites and also provided my services to college students by getting their projects ready ASAP. He have been part of some very good web design projects.
+# Samiun Nafis
+
+is from Bangladesh. He developed many websites and also provided my services to college students by getting their projects ready ASAP. He have been part of some very good web design projects.
 
 Since beginning my journey he is a frontend developer for nearly 4 years, He have done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. He is quietly confident, naturally curious, and perpetually working on improving his chops one design problem at a time.
 
-Skills
+## Skills
 - Web Design
 - Web Development
 - Android Development
 
-Projects
+## Projects
 - Webvium
 - Insight
 - COVID STAT
 - Webvium VPN
 
-Social Links
+## Social Links
 - [https://www.facebook.com/SamiunNafis0](https://www.facebook.com/SamiunNafis0)
 - [https://instagram.com/SamiunNafis](https://instagram.com/SamiunNafis)
 - [https://twitter.com/SamiunNafis](https://twitter.com/SamiunNafis)
