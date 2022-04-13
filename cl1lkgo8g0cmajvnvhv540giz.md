@@ -1,5 +1,7 @@
 ## The Project Webvium
 
+# The Project Webvium | Behind The Scene
+
 As time goes by, applications get heavier and heavier on every update. They also collect countless data in background not known by the user, that concerns user privacy. Developers keep bloating them with libraries, frameworks and analytics.
 
 Developers nowadays tend to use libraries in exchange to save a few days of development cycle. Libraries help to make developers work faster but in exchange they consume most of the app total size. Example, a Hello World app built natively just sizes a few Kilobytes but using libraries a Hello World app can skyrocket to 5-10 Megabytes and a React-native built Hello World app sizes over 40 Megabytes doing nothing just displaying Hello World text on screen.
