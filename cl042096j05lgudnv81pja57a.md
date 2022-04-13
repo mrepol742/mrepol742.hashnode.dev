@@ -2,10 +2,11 @@
 
 ![Webvium](https://mrepol742.github.io/images/webvium2.jpg)
 
-**What is Webvium?** <br>
+# What is Webvium?
+
 A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser.
 
-**History** <br>
+## History
 Webvium was programmed and designed to consumed less resources, 0 background services which means when you close the app its closed. The app uses 0 libraries and frameworks making the total app/download size 500KB.
 
 Most of the app in store are 80% full of libraries or frameworks. When i started this project this uses AppCombat making the app weight 1MB but as time goes by i decided to get rid of it and start working to make this project a little challenging. That is the time i focus to make this program improved while making it the smallest app. It's been 3 years of quite programming and still going on further while improving the app pretty much compared before. 
