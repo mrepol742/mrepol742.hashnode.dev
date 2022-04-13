@@ -3,7 +3,7 @@
 
 ![webvium22.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1648304366717/EnGRssObg.jpg)
 
-# **Webvium**
+# Webvium
 
 Is one of the world's smallest, privacy friendly, smart and awesome android web browser. Build and program from scratch. Webvium download size is just 400KB, perhaps making it the world's smallest android app. Yet, Webvium provides more awesome and cool features without collecting user data.
 
