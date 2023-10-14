@@ -1,4 +1,12 @@
-## Optimized Webvium for Performance and Save Data Bandwith.
+---
+title: "Optimized Webvium for Performance and Save Data Bandwith."
+datePublished: Sat Mar 26 2022 05:28:54 GMT+0000 (Coordinated Universal Time)
+cuid: cl17exgom07n0jonv1u6z67tr
+slug: optimized-webvium-for-performance-and-save-data-bandwith
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1648272510725/lZOu21RUb.jpg
+tags: android-app-development, browsers, android, android-studio, android-apps
+
+---
 
 <b>Make Sure JavaScript is Enabled</b><br>
 You can check if JavaScript is Enabled or Disable at Webvium Settings by navigating to:
