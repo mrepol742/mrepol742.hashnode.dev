@@ -1,4 +1,12 @@
-## Dark mode for my portfolio
+---
+title: "Dark mode for my portfolio"
+datePublished: Thu Jul 07 2022 16:44:55 GMT+0000 (Coordinated Universal Time)
+cuid: cl5b9ezku01ztdvnv46fnhhx3
+slug: dark-mode-for-my-portfolio
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657212254985/jiCduDy0Z.png
+tags: bootstrap, javascript, web-development, html5, portfolio
+
+---
 
 My portfolio has been updated quite a bit today. As a result, I wanted to add a dark mode option for the most recent modifications, but I have no idea how to accomplish it more quickly or where to put the dark mode symbol or option.
 
