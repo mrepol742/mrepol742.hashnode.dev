@@ -1,4 +1,12 @@
-## Webvium Browser - Yes a 400KB(0.4MB) Android Web Browser
+---
+title: "Webvium Browser - Yes a 400KB(0.4MB) Android Web Browser"
+datePublished: Wed Aug 10 2022 17:57:24 GMT+0000 (Coordinated Universal Time)
+cuid: cl6nwz7pt01qy9hnvhif3e35r
+slug: webvium-browser-yes-a-400kb04mb-android-web-browser
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/QgldjOQbp7k/upload/v1660154125198/C93lGVOlj.jpeg
+tags: programming-blogs, web, projects, newsletter, android
+
+---
 
 
 ![webvium22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1660153949804/v3C8mpO0d.png align="left")
