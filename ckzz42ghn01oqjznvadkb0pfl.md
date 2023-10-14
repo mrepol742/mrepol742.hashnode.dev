@@ -1,4 +1,12 @@
-## Webvium version 2.8 build 20220222 and Webvium VPN version 1.1 build 20220222
+---
+title: "Webvium version 2.8 build 20220222 and Webvium VPN version 1.1 build 20220222"
+datePublished: Wed Feb 23 2022 05:22:52 GMT+0000 (Coordinated Universal Time)
+cuid: ckzz42ghn01oqjznvadkb0pfl
+slug: webvium-version-28-build-20220222-and-webvium-vpn-version-11-build-20220222
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1645593722750/nPRL_Ij5W.jpg
+tags: android-app-development, browser, browsers, android, hashnode
+
+---
 
 
 ![Webvium VPN](https://cdn.hashnode.com/res/hashnode/image/upload/v1645593178487/RRhYGe83Z.png)
