@@ -1,4 +1,12 @@
-## Webvium: Privacy Friendly GDPR, CCPA, PECR compliant and Ultra Lightweight (<500KB)
+---
+title: "Webvium: Privacy Friendly GDPR, CCPA, PECR compliant and Ultra Lightweight (<500KB)"
+datePublished: Wed Mar 09 2022 15:47:59 GMT+0000 (Coordinated Universal Time)
+cuid: cl0jqjkda05dylfnv6yqt5b7p
+slug: webvium-privacy-friendly-gdpr-ccpa-pecr-compliant-and-ultra-lightweight-less500kb
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1646840804368/KDbpzMFZa.jpg
+tags: android-app-development, android-development, android, android-studio, android-apps
+
+---
 
 <p align="center">
 <a href="https://mrepol742.github.io/webvium">
