@@ -1,4 +1,12 @@
-## My very first mobile application
+---
+title: "My very first mobile application"
+datePublished: Fri Jul 01 2022 12:54:49 GMT+0000 (Coordinated Universal Time)
+cuid: cl52gjzqm028rsnnv83c53k7s
+slug: my-very-first-mobile-application
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/UK78i6vK3sc/upload/v1656680013781/BOJJfhojp.jpeg
+tags: android-app-development, browsers, android, webview, android-studio
+
+---
 
 Aside from learning my first language, one of the first things I did when I started learning programming was to make my first Android app.
 
