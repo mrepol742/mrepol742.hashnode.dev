@@ -1,4 +1,12 @@
-## I turn WebView into a Full Featured yet 400KB Android Web Browser
+---
+title: "I turn WebView into a Full Featured yet 400KB Android Web Browser"
+datePublished: Sun Jun 26 2022 18:50:10 GMT+0000 (Coordinated Universal Time)
+cuid: cl4vo1kh40h958unv4oxu4x78
+slug: i-turn-webview-into-a-full-featured-yet-400kb-android-web-browser
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/yeB9jDmHm6M/upload/v1656268524552/7ocf6IaoK.jpeg
+tags: android-app-development, browsers, android, webview, android-apps
+
+---
 
 # The Webvium Project
 
