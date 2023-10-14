@@ -1,4 +1,12 @@
-## Best lightweight, fast and privacy friendly web browser for Android You Must Try.
+---
+title: "Best lightweight, fast and privacy friendly web browser for Android You Must Try."
+datePublished: Wed Apr 13 2022 15:25:28 GMT+0000 (Coordinated Universal Time)
+cuid: cl1xq5gtj00izklnva3lacr1e
+slug: best-lightweight-fast-and-privacy-friendly-web-browser-for-android-you-must-try
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649863250843/DLPi3eJ0R.jpg
+tags: android-app-development, browser, browsers, android, android-studio
+
+---
 
 # Let me introduce Webvium
 
