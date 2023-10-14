@@ -1,4 +1,12 @@
-## Melvin Jones Repol
+---
+title: "Melvin Jones Repol"
+datePublished: Fri Feb 04 2022 10:58:23 GMT+0000 (Coordinated Universal Time)
+cuid: ckz8aoric0dt9ccs1bviyd361
+slug: melvin-jones-repol
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643988269923/3LyScurhX.png
+tags: software-development, programming-blogs, developer, programmer, software-engineering
+
+---
 
 # Melvin Jones Repol
 
