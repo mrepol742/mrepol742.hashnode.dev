@@ -1,4 +1,12 @@
-## Samiun Nafis - Designer - Freelancer - Developer
+---
+title: "Samiun Nafis - Designer - Freelancer - Developer"
+datePublished: Fri Feb 04 2022 15:38:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckz8kontn0hryccs1bbok9x7p
+slug: samiun-nafis-designer-freelancer-developer
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643988671227/mpm4LVBG5.png
+tags: software-development, developer, android, programmer, software-engineering
+
+---
 
 # Samiun Nafis
 
